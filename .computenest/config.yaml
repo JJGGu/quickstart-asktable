@@ -66,8 +66,8 @@ Artifact:
     ArtifactBuildProperty:
       CodeRepo:
         Platform: github
-        Owner: JJGGu
-        RepoName: JJGGu/quickstart-asktable
+        Owner: workhardliuzheng
+        RepoName: aliyun-computenest/quickstart-asktable
         Branch: main
       RegionId: ap-southeast-1
       CommandType: RunShellScript
