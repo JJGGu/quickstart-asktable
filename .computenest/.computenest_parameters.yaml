@@ -1,1 +1,12 @@
-{"RepoName":"aliyun-computenest/quickstart-asktable","RegionId":"cn-hangzhou","Owner":"workhardliuzheng","Branch":"main","Platform":"github"}
+RuntimeType: Container
+ServiceType: private
+ArtifactSourceType: DockerCompose
+ServiceBuildRegion: ap-southeast-1
+RepoName: JJGGu/quickstart-asktable
+DockerComposeEnvPath: .env
+RegionId: cn-hangzhou
+CustomParameters: ''
+DockerComposeYamlPath: docker-compose.yml
+Owner: JJGGu
+Branch: main
+Platform: github
